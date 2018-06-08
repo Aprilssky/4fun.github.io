@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Plog
+由 Python+Flask 开发的个人博客程序
 
-You can use the [editor on GitHub](https://github.com/Aprilssky/4fun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+技术栈
+* 后端
+  - Python
+  - Flask 模板引擎
+  - MongoDB 数据库
+  - Redis RestFul API 高速缓存数据库以及页面缓存
+* 前端
+  - Bootstrap CSS 框架
+  - LESS CSS预处理编译器
+  - jQuery
+  - Gulp/Webpack JS模块化以及静态资源自动化合并压缩发布
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## DEMO
+[DEMO](http://www.parser.cc)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aprilssky/4fun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Screenshots
+![dash-editor](https://raw.githubusercontent.com/thundernet8/Plog/df9b2fc0019913300daa686e390f54df0f2bf768/screenshots/dash-editor.jpg)
+![dash-general-setting](https://raw.githubusercontent.com/thundernet8/Plog/df9b2fc0019913300daa686e390f54df0f2bf768/screenshots/dash-general-setting.jpg)
+![dash-navi](https://raw.githubusercontent.com/thundernet8/Plog/df9b2fc0019913300daa686e390f54df0f2bf768/screenshots/dash-navi.jpg)
+![dash-slide-menu](https://raw.githubusercontent.com/thundernet8/Plog/df9b2fc0019913300daa686e390f54df0f2bf768/screenshots/dash-slide-menu.jpg)
+![home](https://raw.githubusercontent.com/thundernet8/Plog/df9b2fc0019913300daa686e390f54df0f2bf768/screenshots/home.jpg)
+![post](https://raw.githubusercontent.com/thundernet8/Plog/df9b2fc0019913300daa686e390f54df0f2bf768/screenshots/post.jpg)
